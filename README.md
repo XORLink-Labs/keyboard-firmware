@@ -1,5 +1,5 @@
 # Keyboard Firmware
-This repository contains the OTA (Over-The-Air) firmware update packages for the custom wireless keyboard.
+This repository contains the OTA (Over-The-Air) firmware update packages for the XORLink Quad-Mode Keyboard Controller.
 
 ## ✨ Features
 * **Quad-Mode Connectivity**: USB, Bluetooth LE, Logitech Unifying, and Logitech Bolt.
