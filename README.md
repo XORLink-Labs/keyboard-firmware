@@ -1,4 +1,6 @@
 # Keyboard Firmware
+[![GitHub Release](https://img.shields.io/github/v/release/XORLink-Labs/keyboard-firmware)](https://github.com/XORLink-Labs/keyboard-firmware/releases/latest)
+
 This repository contains the OTA (Over-The-Air) firmware update packages for the XORLink Quad-Mode Keyboard Controller.
 
 ## ✨ Features
